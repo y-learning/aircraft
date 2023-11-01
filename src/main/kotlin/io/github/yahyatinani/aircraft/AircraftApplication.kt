@@ -1,11 +1,11 @@
-package io.github.yahyatinani.springbootstartermk
+package io.github.yahyatinani.aircraft
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringBootStarterMkApplication
+class AircraftApplication
 
 fun main(args: Array<String>) {
-  runApplication<SpringBootStarterMkApplication>(*args)
+  runApplication<AircraftApplication>(*args)
 }

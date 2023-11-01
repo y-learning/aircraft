@@ -1,4 +1,4 @@
-package io.github.yahyatinani.springbootstartermk
+package io.github.yahyatinani.aircraft
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController

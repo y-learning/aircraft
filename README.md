@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Aircraft Service
+=======
 # Spring Boot Starter Project (Maven, Java & Kotlin)
 
 ## Getting Started
@@ -9,3 +12,4 @@ For further reference, please consider the following sections:
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.5/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.1.5/maven-plugin/reference/html/#build-image)
+>>>>>>> e232ee3 (Initial commit)
